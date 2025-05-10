@@ -6,3 +6,11 @@ pnpm-lock.yaml
 package-lock.json
 .env
 .env.local
+backend/node_modules
+backend/coverage
+backend/jest.config.js
+backend/server.js
+backend/index.js
+
+extension/node_modules
+extension/coverage
